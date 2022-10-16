@@ -1,0 +1,45 @@
+# This file was generated based on ".graphqlconfig". Do not edit manually.
+
+schema {
+    query: Query
+    mutation: Mutation
+}
+
+type Mutation {
+    createTodo(createTodoInput: CreateTodoInput!): Todo!
+    removeTodo(id: Int!): Todo!
+    updateTodo(updateTodoInput: UpdateTodoInput!): Todo!
+}
+
+type Query {
+    todo(id: Int!): Todo!
+    todos: [Todo!]!
+}
+
+type Todo {
+    body: String!
+    createdAt: DateTime!
+    id: ID!
+    status: ItemStatus!
+    updatedAt: DateTime!
+}
+
+enum ItemStatus {
+    DONE
+    INPROGRESS
+    TODO
+}
+
+"A date-time string at UTC, such as 2019-12-03T09:54:33Z, compliant with the date-time format."
+scalar DateTime
+
+input CreateTodoInput {
+    "Example field (placeholder)"
+    exampleField: Int!
+}
+
+input UpdateTodoInput {
+    "Example field (placeholder)"
+    exampleField: Int
+    id: Int!
+}
