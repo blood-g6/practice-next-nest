@@ -4,7 +4,247 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7c36dd8-e0e1-4bc7-98ad-4aa0ea986885" name="Changes" comment="create env" />
+    <list default="true" id="e7c36dd8-e0e1-4bc7-98ad-4aa0ea986885" name="Changes" comment="create env">
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/prisma/affected-rows.output.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/prisma/affected-rows.output.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/prisma/affected-rows.output.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/prisma/date-time-field-update-operations.input.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/prisma/date-time-field-update-operations.input.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/prisma/date-time-field-update-operations.input.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/prisma/date-time-filter.input.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/prisma/date-time-filter.input.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/prisma/date-time-filter.input.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/prisma/date-time-with-aggregates-filter.input.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/prisma/date-time-with-aggregates-filter.input.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/prisma/date-time-with-aggregates-filter.input.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/prisma/enum-item-status-field-update-operations.input.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/prisma/enum-item-status-field-update-operations.input.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/prisma/enum-item-status-field-update-operations.input.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/prisma/enum-item-status-filter.input.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/prisma/enum-item-status-filter.input.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/prisma/enum-item-status-filter.input.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/prisma/enum-item-status-with-aggregates-filter.input.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/prisma/enum-item-status-with-aggregates-filter.input.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/prisma/enum-item-status-with-aggregates-filter.input.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/prisma/int-field-update-operations.input.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/prisma/int-field-update-operations.input.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/prisma/int-field-update-operations.input.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/prisma/int-filter.input.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/prisma/int-filter.input.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/prisma/int-filter.input.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/prisma/int-with-aggregates-filter.input.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/prisma/int-with-aggregates-filter.input.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/prisma/int-with-aggregates-filter.input.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/prisma/item-status.enum.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/prisma/item-status.enum.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/prisma/item-status.enum.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/prisma/nested-date-time-filter.input.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/prisma/nested-date-time-filter.input.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/prisma/nested-date-time-filter.input.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/prisma/nested-date-time-with-aggregates-filter.input.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/prisma/nested-date-time-with-aggregates-filter.input.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/prisma/nested-date-time-with-aggregates-filter.input.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/prisma/nested-enum-item-status-filter.input.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/prisma/nested-enum-item-status-filter.input.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/prisma/nested-enum-item-status-filter.input.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/prisma/nested-enum-item-status-with-aggregates-filter.input.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/prisma/nested-enum-item-status-with-aggregates-filter.input.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/prisma/nested-enum-item-status-with-aggregates-filter.input.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/prisma/nested-float-filter.input.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/prisma/nested-float-filter.input.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/prisma/nested-float-filter.input.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/prisma/nested-int-filter.input.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/prisma/nested-int-filter.input.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/prisma/nested-int-filter.input.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/prisma/nested-int-with-aggregates-filter.input.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/prisma/nested-int-with-aggregates-filter.input.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/prisma/nested-int-with-aggregates-filter.input.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/prisma/nested-string-filter.input.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/prisma/nested-string-filter.input.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/prisma/nested-string-filter.input.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/prisma/nested-string-with-aggregates-filter.input.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/prisma/nested-string-with-aggregates-filter.input.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/prisma/nested-string-with-aggregates-filter.input.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/prisma/sort-order.enum.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/prisma/sort-order.enum.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/prisma/sort-order.enum.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/prisma/string-field-update-operations.input.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/prisma/string-field-update-operations.input.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/prisma/string-field-update-operations.input.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/prisma/string-filter.input.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/prisma/string-filter.input.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/prisma/string-filter.input.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/prisma/string-with-aggregates-filter.input.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/prisma/string-with-aggregates-filter.input.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/prisma/string-with-aggregates-filter.input.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/prisma/transaction-isolation-level.enum.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/prisma/transaction-isolation-level.enum.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/prisma/transaction-isolation-level.enum.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/aggregate-todo-item.output.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/aggregate-todo-item.output.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/aggregate-todo-item.output.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/create-many-todo-item.args.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/create-many-todo-item.args.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/create-many-todo-item.args.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/create-one-todo-item.args.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/create-one-todo-item.args.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/create-one-todo-item.args.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/delete-many-todo-item.args.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/delete-many-todo-item.args.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/delete-many-todo-item.args.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/delete-one-todo-item.args.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/delete-one-todo-item.args.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/delete-one-todo-item.args.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/find-first-todo-item.args.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/find-first-todo-item.args.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/find-first-todo-item.args.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/find-many-todo-item.args.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/find-many-todo-item.args.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/find-many-todo-item.args.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/find-unique-todo-item.args.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/find-unique-todo-item.args.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/find-unique-todo-item.args.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-aggregate.args.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-aggregate.args.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-aggregate.args.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-avg-aggregate.input.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-avg-aggregate.input.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-avg-aggregate.input.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-avg-aggregate.output.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-avg-aggregate.output.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-avg-aggregate.output.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-avg-order-by-aggregate.input.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-avg-order-by-aggregate.input.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-avg-order-by-aggregate.input.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-count-aggregate.input.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-count-aggregate.input.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-count-aggregate.input.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-count-aggregate.output.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-count-aggregate.output.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-count-aggregate.output.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-count-order-by-aggregate.input.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-count-order-by-aggregate.input.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-count-order-by-aggregate.input.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-create-many.input.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-create-many.input.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-create-many.input.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-create.input.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-create.input.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-create.input.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-group-by.args.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-group-by.args.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-group-by.args.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-group-by.output.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-group-by.output.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-group-by.output.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-max-aggregate.input.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-max-aggregate.input.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-max-aggregate.input.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-max-aggregate.output.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-max-aggregate.output.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-max-aggregate.output.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-max-order-by-aggregate.input.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-max-order-by-aggregate.input.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-max-order-by-aggregate.input.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-min-aggregate.input.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-min-aggregate.input.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-min-aggregate.input.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-min-aggregate.output.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-min-aggregate.output.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-min-aggregate.output.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-min-order-by-aggregate.input.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-min-order-by-aggregate.input.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-min-order-by-aggregate.input.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-order-by-with-aggregation.input.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-order-by-with-aggregation.input.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-order-by-with-aggregation.input.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-order-by-with-relation.input.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-order-by-with-relation.input.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-order-by-with-relation.input.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-scalar-field.enum.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-scalar-field.enum.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-scalar-field.enum.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-scalar-where-with-aggregates.input.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-scalar-where-with-aggregates.input.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-scalar-where-with-aggregates.input.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-sum-aggregate.input.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-sum-aggregate.input.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-sum-aggregate.input.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-sum-aggregate.output.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-sum-aggregate.output.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-sum-aggregate.output.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-sum-order-by-aggregate.input.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-sum-order-by-aggregate.input.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-sum-order-by-aggregate.input.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-unchecked-create.input.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-unchecked-create.input.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-unchecked-create.input.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-unchecked-update-many.input.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-unchecked-update-many.input.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-unchecked-update-many.input.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-unchecked-update.input.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-unchecked-update.input.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-unchecked-update.input.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-update-many-mutation.input.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-update-many-mutation.input.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-update-many-mutation.input.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-update.input.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-update.input.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-update.input.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-where-unique.input.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-where-unique.input.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-where-unique.input.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-where.input.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-where.input.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item-where.input.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item.model.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item.model.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/todo-item.model.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/update-many-todo-item.args.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/update-many-todo-item.args.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/update-many-todo-item.args.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/update-one-todo-item.args.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/update-one-todo-item.args.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/update-one-todo-item.args.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/upsert-one-todo-item.args.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/upsert-one-todo-item.args.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/@generated/prisma-nestjs-graphql/todo-item/upsert-one-todo-item.args.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/app.controller.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/app.controller.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/app.controller.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/app.module.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/app.module.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/app.module.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/app.service.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/app.service.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/app.service.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/main.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/main.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/modules/todos/dto/create-todo.input.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/modules/todos/dto/create-todo.input.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/modules/todos/dto/create-todo.input.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/modules/todos/dto/update-todo.input.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/modules/todos/dto/update-todo.input.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/modules/todos/dto/update-todo.input.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/modules/todos/entities/todo.entity.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/modules/todos/entities/todo.entity.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/modules/todos/entities/todo.entity.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/modules/todos/todos.module.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/modules/todos/todos.module.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/modules/todos/todos.module.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/modules/todos/todos.resolver.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/modules/todos/todos.resolver.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/modules/todos/todos.resolver.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/modules/todos/todos.service.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/modules/todos/todos.service.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/modules/todos/todos.service.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/backend/dist/tsconfig.build.tsbuildinfo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/frontend/node_modules/.bin/eslint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/frontend/node_modules/.bin/next" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/frontend/node_modules/.bin/tsc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/frontend/node_modules/.bin/tsserver" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -101,7 +341,7 @@
       <updated>1665906372527</updated>
       <workItem from="1665906374400" duration="6406000" />
       <workItem from="1665913918456" duration="101000" />
-      <workItem from="1665914039698" duration="9225000" />
+      <workItem from="1665914039698" duration="9678000" />
     </task>
     <task id="LOCAL-00001" summary="create env">
       <created>1665928778415</created>
@@ -110,7 +350,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665928778415</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="create env">
+      <created>1665929432132</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1665929432132</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
